@@ -1,0 +1,24 @@
+.comment-list {
+    background-color: hsl(223, 19%, 93%);
+}
+
+.comment-card {
+    border: 1px solid;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 15px;
+    /* display: flex;
+ 
+}
+
+.comment-counter{
+  margin: 10px;
+}
+
+.comment-main {
+  /* background-color: aqua; */
+}
+
+/* .comment-card :nth-child(1){
+  background-color: aqua;
+} */
